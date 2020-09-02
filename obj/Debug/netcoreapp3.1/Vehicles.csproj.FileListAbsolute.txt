@@ -1,0 +1,13 @@
+C:\Users\Freeliu\workspace\csharp\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+C:\Users\Freeliu\workspace\csharp\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+C:\Users\Freeliu\workspace\csharp\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+C:\Users\Freeliu\workspace\csharp\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+C:\Users\Freeliu\workspace\csharp\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\Freeliu\workspace\csharp\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\Freeliu\workspace\csharp\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csprojAssemblyReference.cache
+C:\Users\Freeliu\workspace\csharp\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Freeliu\workspace\csharp\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+C:\Users\Freeliu\workspace\csharp\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Freeliu\workspace\csharp\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\Freeliu\workspace\csharp\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\Freeliu\workspace\csharp\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache
